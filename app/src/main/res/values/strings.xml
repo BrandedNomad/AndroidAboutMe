@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Charl Swart</string>
+    <string name="yellow_star">a yellow star</string>
+    <string name="bio">
+        "Hi, I am Charl. An Educator with nearly 2 decades of experience in Education, Training, and Development. I love developing talent and helping people succeed.
+
+
+        Some of my most recent projects included, working with the Ministry of Education in Thailand to train more than 300 Adult Educators in a variety of instructional design methodologies, as well as providing training in Language Acquisition methodologies to more than 500 Teachers in the formal education sector. I have also successfully designed and delivered workshops on a variety of topics ranging from Instructional design to Coaching in both Malaysia and Indonesia.
+
+
+        Recently I have taken an interest in Technology and have started developing my programming skills. I'd love to combine my newfound interest in Tech with my long-standing passion for Education, Training, and Development in order to provide innovative training solutions to both private and public institutions."</string>
+    <string name="nickname_hint">Enter a nickname</string>
+    <string name="done_button">Done</string>
+
 </resources>
